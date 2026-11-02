@@ -1,1 +1,3 @@
-
+print("My name is Anish Rachakonda.")
+print("My major is Computer Science and Business Administration.")
+print("My expected graduation date is May 2030.")
